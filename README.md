@@ -16,7 +16,7 @@ This script provides a menu interface to control RGB lighting effects on Acer Pr
 
 ## Getting Started
 
-1. **Clone the Repository:**
+1. **Clone the Repository and follow the instructions:**
    ```
    git clone https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module.git
    cd acer-predator-turbo-and-rgb-keyboard-linux-module
