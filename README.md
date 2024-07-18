@@ -1,6 +1,8 @@
 ```
 # Acer RGB Control Menu
 
+**Version:** v1.0.0
+
 This script provides a menu interface to control RGB lighting effects on Acer Predator keyboards using the [acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module).
 
 ## Features
