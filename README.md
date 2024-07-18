@@ -1,4 +1,3 @@
-```
 # Acer RGB Control Menu
 
 **Version:** v1.0.0
@@ -54,7 +53,3 @@ acer-rgb
 Follow the on-screen menu options to control your Acer Predator keyboard's RGB lighting.
 
 If you encounter any issues or have suggestions, please visit the [acer-predator-turbo-and-rgb-keyboard-linux-module](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module) repository.
-
-```
-
-This README now includes syntax-highlighted terminal commands and clearer instructions on how to set up and use the `acer-rgb` script effectively. Adjustments were made for clarity and to align with best practices for documenting scripts on GitHub.
